@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm ⭐Silverstar⭐!
 
 I'm a **Senior Full-Stack Engineer** with a passion for building scalable, efficient, and user-centric web applications. I specialize in leading projects end-to-end—from backend systems to polished frontend interfaces.
 
@@ -68,11 +68,7 @@ I'm a **Senior Full-Stack Engineer** with a passion for building scalable, effic
 ---
 
 ## 🤝 Let's Connect
-
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- 🐙 GitHub: [github.com/yourusername](https://github.com/yourusername)  
-- 📫 Email: yourname@example.com  
+- 📫 Email: ozym73554@gmail.com 
 
 ---
 
