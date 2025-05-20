@@ -6,7 +6,7 @@ This space is where I explore ideas, experiment with code, and build things that
 ---
 
 ## 🧠 My Story
-While I deeply enjoy the structured logic of AI, databases, and clean code, my world isn't limited to keyboards and commit histories. Outside the digital space, I find balance in two very different, yet equally grounding passions: gardening and billiards.
+While I deeply enjoy the structured logic of IT, databases, and clean code, my world isn't limited to keyboards and commit histories. Outside the digital space, I find balance in two very different, yet equally grounding passions: gardening and billiards.
 
 Gardening is my quiet escape. There’s something deeply rewarding about nurturing life—from the vibrant bloom of sunflowers to the soothing scent of lavender. It’s a chance to unplug, slow down, and reconnect with nature.
 
